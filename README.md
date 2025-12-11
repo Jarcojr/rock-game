@@ -2,7 +2,7 @@
 
 A simple interactive Python game where the player chooses between rock, paper, or scissors and competes against a computer opponent. The game tracks wins and losses, validates user input, and provides clear feedback each round.
 
-##Features
+##Features##
 
   Player clicks to sets rock locations around starting ball location
 
@@ -12,7 +12,7 @@ A simple interactive Python game where the player chooses between rock, paper, o
   
   Clean, readable code structure
 
-##What I Learned
+##What I Learned##
 
   Using the random module
   
@@ -22,15 +22,16 @@ A simple interactive Python game where the player chooses between rock, paper, o
 
   How to create a timer function
 
-##How to Run
+##How to Run##
   python main.py
 
-##Example Output
+##Example Output##
+
   Place 5 rocks around the starting ball location
   Program runs for 30 seconds. Ball interations with rocks or window cause redirection and color change.
   Program adds up user score and displays.
 
-##Future Improvements
+##Future Improvements##
 
   Add functionality to restart game without restarting program
 
